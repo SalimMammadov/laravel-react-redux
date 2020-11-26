@@ -1,0 +1,27 @@
+.posts {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.post__title {
+    font-weight: 800;
+}
+.post__title {
+    font-size: 20px !important;
+}
+.list__container {
+    display: flex;
+    flex: 0.95;
+}
+
+.list__button {
+    margin-right: auto;
+}
+.list__info {
+    display: flex;
+    flex-direction: column;
+}
+.post__image {
+    margin-right: 10px;
+    height: 100px;
+    object-fit: contain;
+}
